@@ -7,6 +7,7 @@ I am a final year Bachelor of Technology in Computer Science and Engineering stu
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2023 Goals: Start Contributing to Open Source projects
 - 📫 Reach me at **[k.tripti510@gmail.com](mailto:k.tripti510@gmail.com)**
+- 🙂 I'm open to internship roles and job opportunities
 
 ### Languages and Tools:
 
