@@ -1,4 +1,4 @@
-### Hi there, I'm Tripti 👋
+# Hi there, I'm Tripti 👋
 
 I am a final year Bachelor of Technology in Computer Science and Engineering student at GITAM University, Visakhapatnam. I am currently working on building my expertise in web development projects and looking forward to collaborating on interesting purpose-driven projects that can bring an impact on society. I am eager to learn about different technologies and explore various computer science domains.
 
