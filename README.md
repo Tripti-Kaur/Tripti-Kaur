@@ -1,18 +1,5 @@
 # Hi there, I'm Tripti 👋
-
 I am a final year Bachelor of Technology in Computer Science and Engineering student at GITAM University, Visakhapatnam. I am currently working on building my expertise in web development projects and looking forward to collaborating on interesting purpose-driven projects that can bring an impact on society. I am eager to learn about different technologies and explore various computer science domains.
-
-<!-- ## I'm a Web Dev & stepping my journey towards Open Source
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Start Contributing to Open Source projects
-- 📫 Reach me at **[k.tripti510@gmail.com](mailto:k.tripti510@gmail.com)**
-- 🙂 I'm open to internship roles and job opportunities
-
-### Languages and Tools:
-
-### Connect with me: -->
-
 
 # 💫 About Me:
 🌱 I’m currently learning everything<br>👯 I’m looking to collaborate with other programmers<br>🥅 2023 Goals: Start Contributing to Open Source projects<br>📫 Reach me at k.tripti510@gmail.com<br>🙂 I'm open to internship roles and job opportunities
@@ -28,17 +15,9 @@ I am a final year Bachelor of Technology in Computer Science and Engineering stu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tripti-Kaur&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tripti-Kaur&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://www.twitter.com/arttripbytripti)](https://github.com/VishwaGauravIn/github-twitter-card-embed) 
--->
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!--
- ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> 
 -->
 
 ---
