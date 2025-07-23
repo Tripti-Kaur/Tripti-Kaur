@@ -1,7 +1,7 @@
 # Hi there, I'm Tripti 👋
 🚀<b> Software Engineer | Python & React.js Enthusiast | AI Learner </b>
 
-I'm a passionate <b>Software Engineer</b> with expertise in <b>Python, React.js,</b> and <b>full-stack development</b>. Currently working at <b>Tata Elxsi,</b> I've gained hands-on experience in building scalable web applications and robust backend solutions.
+I'm a passionate <b>Fresher</b> with expertise in <b>Python, React.js,</b> and <b>full-stack development</b>.
 
 ## 💻 What I Do:
 <ul>
