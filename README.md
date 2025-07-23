@@ -1,5 +1,5 @@
 # Hi there, I'm Tripti 👋
-🚀<b> Software Engineer | Python & React.js Enthusiast | AI Learner </b>
+🚀<b> Python & React.js Enthusiast | AI Learner </b>
 
 I'm a passionate <b>Fresher</b> with expertise in <b>Python, React.js,</b> and <b>full-stack development</b>.
 
